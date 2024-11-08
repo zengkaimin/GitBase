@@ -75,7 +75,7 @@ export function Navigation() {
           </nav>
         </div>
         <div className="flex items-center gap-4">
-          <Link
+          {/* <Link
             href="https://github.com/qiayue/gitbase"
             target="_blank"
             rel="noopener noreferrer"
@@ -83,7 +83,7 @@ export function Navigation() {
           >
             <Github className="h-5 w-5" />
             <span className="sr-only">GitHub</span>
-          </Link>
+          </Link> */}
           {!isLoading && (
             isLoggedIn ? (
               <>

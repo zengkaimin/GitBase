@@ -54,6 +54,7 @@ GitBase provides a powerful and user-friendly interface for managing your websit
 5. If available, use the preview function to see how your article will look.
 6. Once you're happy with your new article, click "Create" or "Publish".
 
+![Imgur](https://i.imgur.com/lxlEtv9.jpg)
 ## Understanding Markdown
 
 GitBase uses Markdown for article formatting. Here are some basic Markdown tips:
